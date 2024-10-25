@@ -1,0 +1,14 @@
+C:\Users\sheha\Documents\Coding Projects\C#\Assignment Programming\AssignmentProgramming\Menu.cs\bin\Debug\net7.0\Menu.cs.exe
+C:\Users\sheha\Documents\Coding Projects\C#\Assignment Programming\AssignmentProgramming\Menu.cs\bin\Debug\net7.0\Menu.cs.deps.json
+C:\Users\sheha\Documents\Coding Projects\C#\Assignment Programming\AssignmentProgramming\Menu.cs\bin\Debug\net7.0\Menu.cs.runtimeconfig.json
+C:\Users\sheha\Documents\Coding Projects\C#\Assignment Programming\AssignmentProgramming\Menu.cs\bin\Debug\net7.0\Menu.cs.dll
+C:\Users\sheha\Documents\Coding Projects\C#\Assignment Programming\AssignmentProgramming\Menu.cs\bin\Debug\net7.0\Menu.cs.pdb
+C:\Users\sheha\Documents\Coding Projects\C#\Assignment Programming\AssignmentProgramming\Menu.cs\obj\Debug\net7.0\Menu.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheha\Documents\Coding Projects\C#\Assignment Programming\AssignmentProgramming\Menu.cs\obj\Debug\net7.0\Menu.cs.AssemblyInfoInputs.cache
+C:\Users\sheha\Documents\Coding Projects\C#\Assignment Programming\AssignmentProgramming\Menu.cs\obj\Debug\net7.0\Menu.cs.AssemblyInfo.cs
+C:\Users\sheha\Documents\Coding Projects\C#\Assignment Programming\AssignmentProgramming\Menu.cs\obj\Debug\net7.0\Menu.cs.csproj.CoreCompileInputs.cache
+C:\Users\sheha\Documents\Coding Projects\C#\Assignment Programming\AssignmentProgramming\Menu.cs\obj\Debug\net7.0\Menu.cs.dll
+C:\Users\sheha\Documents\Coding Projects\C#\Assignment Programming\AssignmentProgramming\Menu.cs\obj\Debug\net7.0\refint\Menu.cs.dll
+C:\Users\sheha\Documents\Coding Projects\C#\Assignment Programming\AssignmentProgramming\Menu.cs\obj\Debug\net7.0\Menu.cs.pdb
+C:\Users\sheha\Documents\Coding Projects\C#\Assignment Programming\AssignmentProgramming\Menu.cs\obj\Debug\net7.0\Menu.cs.genruntimeconfig.cache
+C:\Users\sheha\Documents\Coding Projects\C#\Assignment Programming\AssignmentProgramming\Menu.cs\obj\Debug\net7.0\ref\Menu.cs.dll
